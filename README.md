@@ -5,7 +5,7 @@ This is a simple and fun birthday greeting webpage created using HTML, CSS, Java
 👉 [Click here to view the live page](https://hannanmehboob.github.io/HBD/)
 
 ## Preview
-![TicTacTeo Demo](TicTacTeo/Assets/Tic_Tac_TicAnimation.gif)
+![HBD Demo](Assets/HBD_Demo.gif)
 
 ## 🚀 Features
 
