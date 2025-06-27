@@ -5,7 +5,7 @@ This is a simple and fun birthday greeting webpage created using HTML, CSS, Java
 👉 [Click here to view the live page](https://hannanmehboob.github.io/HBD/)
 
 ## Preview
-![HBD Demo](../Assets/HBD_Demo.gif)
+![HBD Demo](../Assets/HBD-Demo.gif)
 
 ## 🚀 Features
 
